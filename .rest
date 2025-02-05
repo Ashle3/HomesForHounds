@@ -1,0 +1,8 @@
+GET http://localhost:3000 HTTP/1.1
+
+
+###
+GET http://localhost:3000/small HTTP/1.1
+
+###
+GET http://localhost:3000/large HTTP/1.1
